@@ -6,7 +6,13 @@ body{
 #wrapper{
     width: 600px;
     margin: 0 auto;
+    background-color: rgba(245, 245, 245, 0.208);
 }
+
+h2, p{
+    text-align: left;
+}
+
 
 #head{
     margin: 0;
@@ -17,6 +23,26 @@ body{
     height: 10vh;
     padding-top: 5vh;
     padding-bottom: 5vh;
-    background-color:rgb(255, 244, 193); ;
+    background-color: beige;
+    
 
+}
+
+#nav{
+
+    border-bottom: 1px solid rgba(128, 128, 128, 0.662);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    text-align: center;
+   
+
+}
+
+.link{
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: underline dotted grey;
+    color: black;
+
+    
 }
