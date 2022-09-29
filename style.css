@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+#head{
+    margin: 0;
+    color: rgb(240, 201, 109);
+}
+
+.header{
+    height: 10vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    background-color:rgb(255, 244, 193); ;
+
+}
