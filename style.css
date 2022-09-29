@@ -1,16 +1,10 @@
-body{
-    margin: 0;
-    text-align: center;
-}
 
 #wrapper{
     width: 600px;
     margin: 0 auto;
     background-color: rgba(245, 245, 245, 0.208);
-}
-
-h2, p{
-    text-align: left;
+    text-align: center;
+    border-radius: 10px;
 }
 
 
@@ -55,4 +49,10 @@ h2, p{
     background-position: center;
     background-repeat: no-repeat;
     margin-left: 25%;
+    border-radius: 50%;
+}
+
+.h2,
+.paragraf{
+    text-align: left;
 }
